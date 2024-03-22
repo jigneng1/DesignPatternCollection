@@ -1,0 +1,3 @@
+interface ICoffeeTable {
+    String SomeUsefulFunction();    
+}
